@@ -3,22 +3,21 @@ A simple Java calculator demonstrating *method overloading* and *object-oriented
 
 
 
-Java Programming Assignment 2
+# Java Programming Assignment 2
 
 
-Name: Priyanka
+# Name: Priyanka
 
-Roll No.: 2401010116 
+# Roll No.: 2401010116 
 
-Course Name: Java Programming
+# Course Name: Java Programming
 
+# Programme: B.Tech CSE CORE Session: 2025-26
 
-Programme: B.Tech CSE CORE Session: 2025-26
-
-📘 Description
+# 📘 Description
 A simple Java calculator demonstrating method overloading and object-oriented programming concepts.
 
-✨ Features
+# ✨ Features
 Addition (Overloaded methods for 2 or 3 numbers)
 
 Subtraction
@@ -29,7 +28,7 @@ Division (with divide-by-zero handling)
 
 Menu-driven user interface
 
-🧠 Concepts Used
+# 🧠 Concepts Used
 
 Method Overloading
 
